@@ -1,14 +1,14 @@
 wooow
-1)$ git --version
-2)git init
-3)cd public
-4)$ git config --global user.email "arhamtrader19@gmail.com"
-5)git config --global user.name "arhamtrader19-lgtm"
+1)$ git --version #check for version
+2)git init  # this for tracking
+3)cd public # this is for add folder public is folder
+4)$ git config --global user.email "arhamtrader19@gmail.com"  # Yeah git kai veer
+5)git config --global user.name "arhamtrader19-lgtm" 
 6)git status
 7)git add .
 8) git commit --m "First Commit"
 9)git log
 10)git branch
 11)git branch name
-12)git switch branch name
+12)git switch branch name)
 13)
